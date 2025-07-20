@@ -20,6 +20,7 @@ A clean and ready-to-use **responsive CSS media queries template** that helps de
 ---
 
 ## 🧩 Template Code
+**Disclaimer:** This template is what I personally use for developing website, you can create your own framework by trying your layout for different screen sizes and then selecting respective breakpoints.
 
 ```css
 /* CSS Media Queries template for different screen sizes (with example device given for each screen size) */
