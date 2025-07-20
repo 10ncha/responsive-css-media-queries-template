@@ -71,3 +71,41 @@ A clean and ready-to-use **responsive CSS media queries template** that helps de
 @media (max-width: 576px) {
     /* some styles */
 }
+```
+---
+
+## 🚀 Why Use This?
+
+✅ Quick start responsive projects  
+✅ Device-specific breakpoints  
+✅ Easy to customize  
+✅ Saves time and helps you focus on styling rather than memorizing screen widths
+
+---
+
+## 📁 How to Use
+
+1. Copy the template code.
+2. Paste into your CSS file or framework (SCSS/SASS supported too).
+3. Customize each block with your own styles.
+4. Build stunning responsive designs faster 🚀
+
+---
+
+## 🙌 Contribute
+
+Found an issue or want to add a new breakpoint?  
+**Pull requests and suggestions are welcome!**
+
+---
+
+## ⭐️ Support
+
+If you find this helpful, **please give it a ⭐️ on GitHub** to help more developers discover it!
+
+---
+
+## 🧑‍💻 Author
+
+Made with ❤️ by [Pushkar](https://github.com/10ncha)
+
